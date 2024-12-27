@@ -1,6 +1,6 @@
 
 public class ConsDemo {
-	int clgID = 560;
+	int clgID = 570;
 	int stuID;
 	int phnnum;
 	public static void main(String[] args) {
